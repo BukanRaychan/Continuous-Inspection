@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://github.com/BukanRaychan/Continuous-Inspection.git</url>
+      <url>https://github.com/BukanRaychan/Continuous-Inspection</url>
     </repository>
   </distributionManagement>
   
